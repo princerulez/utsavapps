@@ -20,7 +20,7 @@ define("FACEBOOK_APP_ID", '  313523565447909');
 define("FACEBOOK_API_KEY", 'ab21a1be4cf5af182692a6edc4e43545ab21a1be4cf5af182692a6edc4e43545');
 define("FACEBOOK_SECRET_KEY", 'ab21a1be4cf5af182692a6edc4e43545');
 define("FACEBOOK_CANVAS_URL", 'http://apps.facebook.com/herokudev');
-define("FACEBOOK_DOMAIN", 'http://ancient-lowlands-1062.herokuapp.com/');
+define("FACEBOOK_DOMAIN", 'https://github.com/princerulez/utsavapps/');
 
 
 ?>
