@@ -1,7 +1,7 @@
 <?php
 
-require './config.php';
-require 'lib/facebook.php';
+require 'config.php';
+require 'facebook.php';
 
 //Create facebook application instance.
 $facebook = new Facebook(array(
